@@ -1,0 +1,8 @@
+# 파이널 프로젝트 [HTA CINEMA]
+
+##SPRING MVC패턴, MODEL2방식으로 구현한 영화 예매 사이트 
+### 프로젝트 기간 
+2022년 01월 10일 ~ 2022년 02월 15일 
+### 인원 
+4명 
+### JAVA, JSP , ORACLE SQL , MYBATIS, SPRING BOOT, CSS3, HTML5, BOOTSTRAP, JAVASCRIPT, JQUERY, APACHE TOMACAT SERVER
